@@ -13,7 +13,7 @@ HOBBY: PLAYING GAMES 🎮 AND LISTENING TO MUSIC 🎧
 # 📂 PROJECTS
 🖥️ [PC Assemble](https://github.com/syhm1d/SECP1513-05/tree/main/PC%20Assemble) \
 📎 [Assigment 1: Poster Industry Talk 1](https://github.com/syhm1d/SECP1513-05/tree/main/Assignment%201) \
-📹 [Assigment 2: Video Industry Visit 1](link.com) \
+📹 [Assigment 2: Video Industry Visit 1](https://github.com/syhm1d/SECP1513-05/tree/main/Assignment%202) \
 🗄️ [Assigment 3: Report Industry Talk 2](link.com) \
 📰 [Assigment 4: Newsletter Industry Visit 2](link.com) \
 🧠 [Design Thinking Project](link.com)
